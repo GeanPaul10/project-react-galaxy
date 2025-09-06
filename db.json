@@ -1,0 +1,100 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "code": "#TKT-2025-1",
+      "description": "El usuario no puede acceder a su correo electrónico corporativo.",
+      "category": "Software",
+      "status": 0,
+      "createdDate": "2025-09-05T09:03:56.488Z"
+    },
+    {
+      "id": "2",
+      "code": "#TKT-2025-2",
+      "description": "Se necesita instalar una nueva tarjeta de video en la estación de trabajo.",
+      "category": "Hardware",
+      "status": 1,
+      "createdDate": "2025-09-05T09:03:56.488Z"
+    },
+    {
+      "id": "3",
+      "code": "#TKT-2025-3",
+      "description": "Error al exportar datos del sistema de gestión de clientes (CRM).",
+      "category": "Software",
+      "status": 2,
+      "createdDate": "2025-09-05T09:03:56.488Z"
+    },
+    {
+      "id": "4",
+      "code": "#TKT-2025-4",
+      "description": "La impresora del departamento de finanzas no responde.",
+      "category": "Hardware",
+      "status": 0,
+      "createdDate": "2025-09-05T09:03:56.488Z"
+    },
+    {
+      "id": "5",
+      "code": "#TKT-2025-5",
+      "description": "El servidor de archivos está experimentando una carga inusualmente alta.",
+      "category": "Hardware",
+      "status": 1,
+      "createdDate": "2025-09-05T09:03:56.488Z"
+    },
+    {
+      "id": "6",
+      "code": "#TKT-2025-6",
+      "description": "Se requiere la creación de una nueva cuenta en la base de datos.",
+      "category": "Software",
+      "status": 2,
+      "createdDate": "2025-09-05T09:03:56.488Z"
+    },
+    {
+      "id": "7",
+      "code": "#TKT-2025-7",
+      "description": "Problema de conexión con la red Wi-Fi en el área de recepción.",
+      "category": "Hardware",
+      "status": 0,
+      "createdDate": "2025-09-05T09:03:56.488Z"
+    },
+    {
+      "id": "8",
+      "code": "#TKT-2025-8",
+      "description": "El software de contabilidad se congela al intentar generar reportes.",
+      "category": "Software",
+      "status": 1,
+      "createdDate": "2025-09-05T09:03:56.488Z"
+    },
+    {
+      "id": "9",
+      "code": "#TKT-2025-9",
+      "description": "El monitor de un equipo de diseño gráfico no enciende.",
+      "category": "Hardware",
+      "status": 2,
+      "createdDate": "2025-09-05T09:03:56.488Z"
+    },
+    {
+      "id": "10",
+      "code": "#TKT-2025-10",
+      "description": "Solicitud para la instalación de una nueva aplicación de diseño.",
+      "category": "Software",
+      "status": 0,
+      "createdDate": "2025-09-05T09:03:56.488Z"
+    },
+    {
+      "id": "4b7d",
+      "description": "Mantenimiento preventivo de equipo informatico",
+      "category": "Hardware",
+      "code": "#TCK-2025-11",
+      "status": 0,
+      "createdDate": "2025-09-05T10:06:13.066Z"
+    },
+    {
+      "id": "4bfb",
+      "description": "Problemas con la fotocopiadora de la sede central",
+      "category": "Hardware",
+      "code": "#TCK-2025-12",
+      "status": 0,
+      "createdDate": "2025-09-05T23:47:55.061Z"
+    }
+  ]
+}
